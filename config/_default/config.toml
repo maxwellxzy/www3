@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://www3-epy.pages.dev"
+baseURL = "https://www3.tanchen.net"
 title = "Bigspring Light"
 theme = "bigspring-light"
 # post pagination
