@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://demo.gethugothemes.com/bigspring-light/examplesite/"
+baseURL = "https://www3-epy.pages.dev"
 title = "Bigspring Light"
 theme = "bigspring-light"
 # post pagination
