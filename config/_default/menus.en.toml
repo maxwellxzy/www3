@@ -21,9 +21,24 @@ weight = 4
 
 [[main]]
 name = "FAQ"
-url = "faq/"
+hasChildren = true
 weight = 5
 
+[[main]]
+name = "FAQreal"
+parent = "FAQ"
+url = "/faq"
+weight = 6
+[[main]]
+name = "FAQa"
+parent = "FAQ"
+url = "/faqa"
+weight = 7
+[[main]]
+name = "FAQb"
+parent = "FAQ"
+url = "faqb/"
+weight = 8
 # footer menu left
 [[footer_left]]
 name = "About Us"
