@@ -1,0 +1,51 @@
+#################### default parameters ################################
+logo = "images/logo2.png"
+logo_width = "200px"
+# OpenGraph / Twitter Card metadata
+description = "欢迎来到北京天诚创盛贸易有限公司-主页，全球资源领导者"
+author = "TanChen"
+image = "images/logo2.png" # this image will be used as fallback if a page has no image of its own
+# contact form action
+contact_form_action = "#" # contact form works with https://formspree.io
+
+# Type of pages to be rendered with a blog view
+blogCategoryType = "category"
+
+# Preloader
+[preloader]
+enable = false
+preloader = "" # use jpg, png, svg or gif format.
+
+# Navigation buttons
+[navigation_button]
+enable = true
+label = "联系我们"
+link = "contact"
+
+# cookies
+[cookies]
+enable = false
+expire_days = 2
+content = "This site uses cookies. By continuing to use this website, you agree to their use."
+button = "I Accept"
+  
+############################# social site ########################
+[[social]]
+title = "微信"
+icon = "ti-themify-favicon-alt" # themify icon : https://themify.me/themify-icons
+link = "#"
+
+[[social]]
+title = "twitter"
+icon = "fab fa-twitter" # themify icon : https://themify.me/themify-icons
+link = "#"
+
+[[social]]
+title = "skype"
+icon = "fab fa-skype" # themify icon : https://themify.me/themify-icons
+link = "#"
+
+[[social]]
+title = "linkedin"
+icon = "fab fa-linkedin" # themify icon : https://themify.me/themify-icons
+link = "#"

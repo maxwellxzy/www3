@@ -1,28 +1,28 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "Lassen Sie uns Ihre kritischen Herausforderungen bei der Website <br> Entwicklung lösen"
+  title : "这是一个开头title主题 <br> 这是其次的"
   image : "images/banner-art.svg"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus"
+  content : "这里可以写很多内容，包括一堆废话"
   button:
     enable : true
-    label : "Contact Us"
+    label : "联系我们"
     link : "contact/"
 
 ##################### Feature ##########################
 feature:
   enable : true
-  title : "Something You Need To Know"
+  title : "这是一个title"
   feature_item:
     # feature item loop
-    - name : "Clean Code"
+    - name : "这个是一个名字"
       icon : "fas fa-code"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "可一些一堆东西"
       
     # feature item loop
-    - name : "Object Oriented"
+    - name : "第二个"
       icon : "fas fa-object-group"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "第二对东西"
       
     # feature item loop
     - name : "24h Service"

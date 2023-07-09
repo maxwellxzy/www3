@@ -1,9 +1,21 @@
+[zh]
+languageName = "Chinese"
+title = "北京天诚创盛贸易有限公司"
+contentDir = "content/chinese" # content/german
+weight = 1
+########### footer content ##########
+footer_menu_left = "关于"
+footer_menu_middle = "产品"
+footer_menu_right = "服务"
+footer_content = "北京天诚创盛，致力于为中国工业经济发展提供最优质的全球资源产品，为多方共赢和中国经济发展注入动力。"
+# copyright
+copyright = "北京天诚创盛贸易有限公司@2023 版权所有"
 ############################# English ############################
 [en]
-languageName = "En"
+languageName = "English"
 title = "Bigspring Hugo"
 contentDir = "content/english" # content/english
-weight = 1
+weight = 2
 ########### footer content ##########
 footer_menu_left = "Company"
 footer_menu_middle = "Product"
@@ -11,19 +23,4 @@ footer_menu_right = "Support"
 footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
 # copyright
 copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)"
-
-
-
-############################# Deutsch ############################
-[de]
-languageName = "De"
-title = "Bigspring Hugo"
-contentDir = "content/deutsch" # content/german
-weight = 2
-########### footer content ##########
-footer_menu_left = "Firma"
-footer_menu_middle = "Produkte"
-footer_menu_right = "Support"
-footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
-# copyright
-copyright = "Design von [Themefisher](https://themefisher.com/) Entwickelt von [Gethugothemes](https://gethugothemes.com/)"
+############################# Chinese ############################

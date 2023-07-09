@@ -2,6 +2,7 @@
 baseURL = "https://www3.tanchen.net"
 title = "Bigspring Light"
 theme = "bigspring-light"
+defaultContentLanguage = "zh"
 # post pagination
 paginate = "3"
 # post excerpt

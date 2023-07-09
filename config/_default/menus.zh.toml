@@ -1,32 +1,32 @@
 # main menu
 [[main]]
-name = "Home"
+name = "首页"
 url = "/"
 weight = 1
 
 [[main]]
-name = "Blog"
+name = "新闻"
 url = "blog/"
 weight = 2
 
 [[main]]
-name = "Pricing"
+name = "产品"
 url = "pricing/"
 weight = 3
 
 [[main]]
-name = "Contact"
+name = "联系我们"
 url = "contact/"
 weight = 4
 
 [[main]]
-name = "FAQ"
+name = "服务"
 url = "faq/"
 weight = 5
 
 # footer menu left
 [[footer_left]]
-name = "About Us"
+name = "关于我们"
 url = "#"
 
 [[footer_left]]
