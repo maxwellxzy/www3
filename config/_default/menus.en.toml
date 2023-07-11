@@ -5,14 +5,14 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "Blog"
+name = "Product"
 url = "blog/"
 weight = 2
 
-[[main]]
-name = "Pricing"
-url = "pricing/"
-weight = 3
+# [[main]]
+# name = "Pricing"
+# url = "pricing/"
+# weight = 3
 
 [[main]]
 name = "Contact"

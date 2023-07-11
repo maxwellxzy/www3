@@ -2,8 +2,8 @@
 ####################### Banner #########################
 banner:
   title : "北京天诚创盛贸易有限公司<br>致力于为中国工业经济发展提供最优质的全球资源产品"
-  image : "images/banner-art.svg"
-  content : "我们始终坚持产品与服务并举，与供应商和客户建立长期共赢的合伙伙伴关系，为多方共赢和中国经济发展注入动力。<br>我们在西亚、中东、非洲、澳洲和南美建立了广泛的资源网络，提供包括铁矿石、铬铁、铝土、铝、铬矿石以及其他资源品在内的多种产品。健康的长期伙伴关系铸就了互信和真诚，为所有参与方创造了价值。<br>我们真诚希望在长远的业务往来中与供应商和客户保持良好的互动与沟通，为企业和持续创造价值，为全人类的福祉尽自己的一份绵薄之力。"
+  image : "images/bauxite.jpg"
+  content : "我们始终坚持产品与服务并举，与供应商和客户建立长期共赢的合伙伙伴关系，为多方共赢和中国经济发展注入动力。<br>我们在西亚、中东、非洲、澳洲和南美建立了广泛的资源网络，提供包括铁矿石、铬铁、铝土、铝、铬矿石以及其他资源品在内的多种产品。"
   button:
     enable : true
     label : "联系我们"
@@ -52,7 +52,6 @@ service:
     - title : "其它"
       images:
       - "images/bauxite-img.jpg"
-      - "images/bauxite.jpg"
       - "images/bauxite-suppliers.jpg"
       content : "我们在西亚、中东、非洲、澳洲和南美建立了广泛的资源网络，提供包括铁矿石、铬铁、铝土、铝、铬矿石以及其他资源品在内的多种产品。健康的长期伙伴关系铸就了互信和真诚，为所有参与方创造了价值。"
       button:
@@ -106,13 +105,13 @@ screenshot:
 call_to_action:
   enable : true
   title : "联系我们"
-  image : "images/cta.svg"
+  image : "images/teamwork.jpg"
   content : "地址：北京市朝阳区黄厂路3号院6号楼7层702，100023
 Address: Rm 702, 6th Building, No.6 HuangChang Rd, ChaoYang District, Beijing, China, 100023
 Tel: 0086-10-67322166
 Email: info@tanchen.net"
   button:
     enable : true
-    label : "Contact Us"
+    label : "联系我们"
     link : "contact/"
 ---
