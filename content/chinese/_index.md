@@ -62,35 +62,7 @@ service:
 ##################### Feature ##########################
 feature:
   enable : true
-  title : "最新资讯"
-  feature_item:
-    # feature item loop
-    - name : "公司动态"
-      icon : "fas fa-cloud"
-      content : "公司最新动态"
-    # feature item loop
-    - name : "铁矿石行情"
-      icon : "fas fa-code"
-      content : "最新铁矿石行情"
-      
-    # feature item loop
-    - name : "铬铁行情"
-      icon : "fas fa-object-group"
-      content : "最新铬铁矿石行情"
-      
-    # feature item loop
-    - name : "铝矿石行情"
-      icon : "fas fa-user-clock"
-      content : "最新铝矿石行情"
-    # feature item loop
-    - name : "铝土行情"
-      icon : "fas fa-heart"
-      content : "最新铝土行情"
-      
-    # feature item loop
-    - name : "铬行情"
-      icon : "fas fa-tachometer-alt"
-      content : "最新铬行情"
+  title : "我们的产品"
       
       
 ################### Screenshot ########################
@@ -112,6 +84,6 @@ Tel: 0086-10-67322166
 Email: info@tanchen.net"
   button:
     enable : true
-    label : "联系我们"
+    label : "Contact Us"
     link : "contact/"
 ---

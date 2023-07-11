@@ -1,15 +1,21 @@
 ---
-title: "Kontakt"
+title: "联系我们"
 subtitle: ""
 # meta description
-description: "Dies ist die Metabeschreibung"
+description: "联系我们"
 draft: false
 ---
+# 关于我们
 
+北京天诚创盛贸易有限公司，立足北京，致力于为中国工业经济发展提供最优质的全球资源产品，在行业内有超过二十年的服务经验。我们始终坚持产品与服务并举，与供应商和客户建立长期共赢的合伙伙伴关系，为多方共赢和中国经济发展注入动力。
 
-### Warum Sie uns kontaktieren sollten!
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
+我们在西亚、中东、非洲、澳洲和南美建立了广泛的资源网络，提供包括铁矿石、铬铁、铝土、铝、铬矿石以及其他资源品在内的多种产品。健康的长期伙伴关系铸就了互信和真诚，为所有参与方创造了价值。
 
-* **Phone: +88 125 256 452** 
-* **Mail: info@bigspring.com**
-* **Address: 360 Main rd, Rio, Brazil**
+我们真诚希望在长远的业务往来中与供应商和客户保持良好的互动与沟通，为企业和持续创造价值，为全人类的福祉尽自己的一份绵薄之力。
+
+# 联系我们
+
+地址：北京市朝阳区黄厂路3号院6号楼7层702，100023
+Address: Rm 702, 6th Building, No.6 HuangChang Rd, ChaoYang District, Beijing, China, 100023
+Tel: 0086-10-67322166
+Email: info@tanchen.net

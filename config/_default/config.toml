@@ -1,12 +1,12 @@
 ######################## default configuration ####################
 baseURL = "https://www3.tanchen.net"
-title = "Bigspring Light"
+title = "Tan Chen Resources"
 theme = "bigspring-light"
 defaultContentLanguage = "zh"
 # post pagination
 paginate = "3"
 # post excerpt
-summaryLength = "15"
+summaryLength = "18"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # google analytics

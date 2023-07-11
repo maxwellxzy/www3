@@ -1,0 +1,23 @@
+[readmore]
+other = "点击阅读"
+
+[translations]
+other="Translations"
+
+[error404]
+other = "您来错地方咯，这里啥都没有。"
+
+[yourname]
+other = "您的名字"
+
+[youremail]
+other = "您的邮箱"
+
+[subject]
+other = "主题"
+
+[yourmessage]
+other = "您的信息"
+
+[sendnow]
+other = "立即发送"

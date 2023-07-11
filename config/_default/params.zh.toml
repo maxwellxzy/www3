@@ -2,7 +2,7 @@
 logo = "images/logo2.png"
 logo_width = "200px"
 # OpenGraph / Twitter Card metadata
-description = "欢迎来到北京天诚创盛贸易有限公司-主页，全球资源领导者"
+description = "欢迎来到北京天诚创盛贸易有限公司-全球资源领导者"
 author = "TanChen"
 image = "images/logo2.png" # this image will be used as fallback if a page has no image of its own
 # contact form action
@@ -31,8 +31,8 @@ button = "I Accept"
   
 ############################# social site ########################
 [[social]]
-title = "微信"
-icon = "ti-themify-favicon-alt" # themify icon : https://themify.me/themify-icons
+title = "facebook"
+icon = "fab fa-facebook" # themify icon : https://themify.me/themify-icons
 link = "#"
 
 [[social]]

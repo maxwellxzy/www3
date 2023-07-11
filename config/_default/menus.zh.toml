@@ -5,24 +5,54 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "新闻"
+name = "产品中心"
 url = "blog/"
 weight = 2
 
 [[main]]
-name = "产品"
-url = "pricing/"
-weight = 3
+name = "FAQreal"
+parent = "产品中心"
+url = "/faq"
+weight = 6
+
+[[main]]
+name = "FAQa"
+parent = "产品中心"
+url = "/faqa"
+weight = 7
+
+[[main]]
+name = "FAQb"
+parent = "产品中心"
+url = "faqb/"
+weight = 8
+
+[[main]]
+name = "FAQb"
+parent = "产品中心"
+url = "faqb/"
+weight = 8
+
+[[main]]
+name = "FAQb"
+parent = "产品中心"
+url = "faqb/"
+weight = 8
+# [[main]]
+# name = "产品"
+# url = "pricing/"
+# weight = 3
+
+[[main]]
+name = "服务"
+url = "faq/"
+weight = 5
 
 [[main]]
 name = "联系我们"
 url = "contact/"
 weight = 4
 
-[[main]]
-name = "服务"
-url = "faq/"
-weight = 5
 
 # footer menu left
 [[footer_left]]
@@ -30,36 +60,28 @@ name = "关于我们"
 url = "#"
 
 [[footer_left]]
-name = "Quick Start"
-url = "#"
-
-[[footer_left]]
-name = "Pricing"
-url = "pricing/"
+name = "联系我们"
+url = "contact/"
 
 
 # footer menu middle
 [[footer_middle]]
-name = "Pricing"
+name = "铁矿石"
 url = "pricing/"
 
 [[footer_middle]]
-name = "Platform"
+name = "铬铁矿石"
 url = "#"
 
 [[footer_middle]]
-name = "Features"
+name = "铝土矿石"
 url = "#"
 
 # footer menu right
 [[footer_right]]
-name = "Privacy Policy"
+name = "隐私政策"
 url = "privacy-policy/"
 
 [[footer_right]]
-name = "Terms & Conditions"
+name = "问题解答"
 url = "terms-conditions/"
-
-[[footer_right]]
-name = "FAQ"
-url = "faq/"

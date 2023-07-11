@@ -1,31 +1,18 @@
 ---
-title: "Datenschutz"
+title: "隐私政策"
 subtitle: ""
 # meta description
 description: "Dies ist die Metabeschreibung"
 draft: false
 ---
+----------------
+### 敏感个人数据的处理：
+我们可能根据适用法律和我们的《隐私政策》收集和使用你的敏感个人数据。我们仅在向你提供我们产品和服务所必要的情况下、且仅在你同意的情况下处理你的该等信息。例如，出于管理预订等必要目的，我们会要求你提供由政府发放的身份证明，但仅限于为数不多的情形，包括在你领取iPhone时验证你的身份。如果你选择不提供该等信息或不同意我们处理该等信息，我们可能无法向你提供某些特定产品或服务。
+### 向合作伙伴提供个人数据：
+我们有时可能会与第三方合作提供服务或其他产品，也可能会按照你的指示或在你同意的情况下与其他人共享你的个⼈数据。无论在任何情况下，包括但不限于我们与合作伙伴联合向你提供金融产品、向你提供物流支持等情况，我们 严格要求合作伙伴保护你的个⼈数据。关于我们隐私实践的一般性信息，请参阅我们的《隐私政策》。
+### 跨境传输个人数据: 
+你的个人数据可能会被传输到世界各地的实体或被其访问，这些实体包括我们的关联公司。但相关个人数据仅用于本说明或我们《隐私政策》的其他部分所述的必要处理活动。为了提供产品和服务，我们可能在中国大陆以外的其他国家/地区处理与中国大陆个人有关的个人数据。我们 遵守在国家/地区间传输个人数据的相关法律，以确保无论在何处处理，你的数据都享有同样的高度隐私保护。
+## 适用于中国大陆的隐私权利
+在 我们，我们尊重中国消费者在《中华人民共和国个人信息保护法》项下享有的知情、查阅、更正、转移、限制处理和删除其个人数据的权利。中国消费者还有权要求我们提供其个人数据的副本，并解释我们《隐私政策》和本说明以及其他相关的个人数据处理规则。
 
-#### Responsibility of Contributors
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed 
-
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
-
-#### Gathering of Personal Information
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-
-#### Protection of  Personal- Information
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. 
-
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat 
-
-#### Privacy Policy Changes
-
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but  limited to, email addresses, telephone numbers
-4. Any Update come in The technology  Customer will get automatic  Notification.
+我们在《隐私政策》以及某些会请求使用你的个人数据的产品和功能中所嵌入的“数据和隐私信息”说明中告知我们的隐私实践。这些特定产品的信息会伴随我们的数据和隐私图标一并显示。

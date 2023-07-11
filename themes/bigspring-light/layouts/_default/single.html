@@ -7,10 +7,10 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-8 mx-auto">
+        <h2 class="mb-4">{{ .Title }}</h2>
         {{ if .Params.image }}
         <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}" class="img-fluid w-100 rounded mb-4">
         {{ end }}
-        <h2 class="mb-4">{{ .Title }}</h2>
         <div class="content">{{.Content}}</div>
         
         <!-- comments -->
