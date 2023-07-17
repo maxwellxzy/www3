@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://www3.tanchen.net"
+baseURL = "https://www.tanchen.net"
 title = "Tan Chen Resources"
 theme = "bigspring-light"
 defaultContentLanguage = "zh"
