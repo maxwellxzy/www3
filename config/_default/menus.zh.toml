@@ -10,33 +10,33 @@ url = "blog/"
 weight = 2
 
 [[main]]
-name = "FAQreal"
+name = "铁矿石"
 parent = "产品中心"
-url = "/faq"
+url = "/"
 weight = 6
 
 [[main]]
-name = "FAQa"
+name = "铬铁矿石"
 parent = "产品中心"
-url = "/faqa"
+url = "/"
 weight = 7
 
 [[main]]
-name = "FAQb"
+name = "铝土矿石"
 parent = "产品中心"
-url = "faqb/"
+url = "/"
 weight = 8
 
 [[main]]
-name = "FAQb"
+name = "铝矿石"
 parent = "产品中心"
-url = "faqb/"
+url = "/"
 weight = 8
 
 [[main]]
-name = "FAQb"
+name = "铬矿石"
 parent = "产品中心"
-url = "faqb/"
+url = "/"
 weight = 8
 # [[main]]
 # name = "产品"
@@ -67,7 +67,7 @@ url = "contact/"
 # footer menu middle
 [[footer_middle]]
 name = "铁矿石"
-url = "pricing/"
+url = "/"
 
 [[footer_middle]]
 name = "铬铁矿石"
@@ -77,6 +77,12 @@ url = "#"
 name = "铝土矿石"
 url = "#"
 
+[[footer_middle]]
+name = "铝矿石"
+url = "#"
+[[footer_middle]]
+name = "铬矿石"
+url = "#"
 # footer menu right
 [[footer_right]]
 name = "隐私政策"
@@ -84,4 +90,4 @@ url = "privacy-policy/"
 
 [[footer_right]]
 name = "问题解答"
-url = "terms-conditions/"
+url = "faq/"

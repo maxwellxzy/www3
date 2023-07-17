@@ -7,8 +7,34 @@ weight = 1
 [[main]]
 name = "Product"
 url = "blog/"
+hasChildren = true
 weight = 2
 
+[[main]]
+name = "Iron ore"
+parent = "Product"
+url = "/"
+weight = 6
+[[main]]
+name = "Chromite"
+parent = "Product"
+url = "/"
+weight = 7
+[[main]]
+name = "Bauxite"
+parent = "Product"
+url = "/"
+weight = 8
+[[main]]
+name = "Aluminum ore"
+parent = "Product"
+url = "/"
+weight = 9
+[[main]]
+name = "Chromium ore"
+parent = "Product"
+url = "/"
+weight = 10
 # [[main]]
 # name = "Pricing"
 # url = "pricing/"
@@ -21,60 +47,42 @@ weight = 4
 
 [[main]]
 name = "FAQ"
-hasChildren = true
 weight = 5
 
-[[main]]
-name = "FAQreal"
-parent = "FAQ"
-url = "/faq"
-weight = 6
-[[main]]
-name = "FAQa"
-parent = "FAQ"
-url = "/faqa"
-weight = 7
-[[main]]
-name = "FAQb"
-parent = "FAQ"
-url = "faqb/"
-weight = 8
 # footer menu left
 [[footer_left]]
 name = "About Us"
 url = "#"
 
 [[footer_left]]
-name = "Quick Start"
-url = "#"
-
-[[footer_left]]
-name = "Pricing"
-url = "pricing/"
+name = "Contact Us"
+url = "contact/"
 
 
 # footer menu middle
 [[footer_middle]]
-name = "Pricing"
-url = "pricing/"
+name = "Iron ore"
+url = "/"
 
 [[footer_middle]]
-name = "Platform"
+name = "Chromite"
 url = "#"
 
 [[footer_middle]]
-name = "Features"
+name = "Bauxite"
 url = "#"
 
+[[footer_middle]]
+name = "Aluminum ore"
+url = "#"
+[[footer_middle]]
+name = "Chromium ore"
+url = "#"
 # footer menu right
 [[footer_right]]
 name = "Privacy Policy"
 url = "privacy-policy/"
 
 [[footer_right]]
-name = "Terms & Conditions"
-url = "terms-conditions/"
-
-[[footer_right]]
-name = "FAQ"
+name = "Faq"
 url = "faq/"

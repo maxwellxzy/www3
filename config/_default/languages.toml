@@ -9,7 +9,7 @@ footer_menu_middle = "产品"
 footer_menu_right = "服务"
 footer_content = "北京天诚创盛，致力于为中国工业经济发展提供最优质的全球资源产品，为多方共赢和中国经济发展注入动力。"
 # copyright
-copyright = "北京天诚创盛贸易有限公司@2023 版权所有"
+copyright = "北京天诚创盛贸易有限公司 &copy;2023 版权所有"
 ############################# English ############################
 [en]
 languageName = "English"
@@ -20,7 +20,7 @@ weight = 2
 footer_menu_left = "Company"
 footer_menu_middle = "Product"
 footer_menu_right = "Support"
-footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
+footer_content = "We are commited to be steadfast in delivery of highest quality products and exceptional service and aim to establish long term relationship with clients with the intention of becoming their preferred commodity supply partner."
 # copyright
-copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "TanChen Resources &copy; 2023 All rights reserved."
 ############################# Chinese ############################
