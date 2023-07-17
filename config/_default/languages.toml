@@ -13,7 +13,7 @@ copyright = "北京天诚创盛贸易有限公司 &copy;2023 版权所有"
 ############################# English ############################
 [en]
 languageName = "English"
-title = "Bigspring Hugo"
+title = "TanChen Resources"
 contentDir = "content/english" # content/english
 weight = 2
 ########### footer content ##########
