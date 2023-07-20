@@ -82,8 +82,7 @@ call_to_action:
   enable : true
   title : "Contact Us"
   image : "images/teamwork.jpg"
-  content : "地址：北京市朝阳区黄厂路3号院6号楼7层702，100023
-Address: Rm 702, 6th Building, No.6 HuangChang Rd, ChaoYang District, Beijing, China, 100023
+  content : "Address: Rm 702, 6th Building, No.6 HuangChang Rd, ChaoYang District, Beijing, China, 100023
 Tel: 0086-10-67322166
 Email: info@tanchen.net"
   button:

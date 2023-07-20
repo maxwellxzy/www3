@@ -16,33 +16,36 @@ service:
   enable : true
   service_item:
     # service item loop
-    - title : "铬铁矿石"
-      images:
-      - "images/iron1.jpg"
-      - "images/iron2.jpg"
-      content : "我们在西亚、中东、非洲、澳洲和南美建立了广泛的资源网络，提供包括铁矿石、铬铁、铝土、铝、铬矿石以及其他资源品在内的多种产品。健康的长期伙伴关系铸就了互信和真诚，为所有参与方创造了价值。"
-      button:
-        enable : true
-        label : "更多信息"
-        link : "#"
-        
-    # service item loop
-    - title : "铬铁矿石"
-      images:
-      - "images/rc.jpg"
-      - "images/rc1.jpg"
-      - "images/rc2.jpg"
-      content : "我们在西亚、中东、非洲、澳洲和南美建立了广泛的资源网络，提供包括铁矿石、铬铁、铝土、铝、铬矿石以及其他资源品在内的多种产品。健康的长期伙伴关系铸就了互信和真诚，为所有参与方创造了价值。"
-      button:
-        enable : true
-        label : "更多信息"
-        link : "#"
-        
-    # service item loop
     - title : "铝土矿石"
       images:
-      - "images/chromium.jpg"
-      content : "我们在西亚、中东、非洲、澳洲和南美建立了广泛的资源网络，提供包括铁矿石、铬铁、铝土、铝、铬矿石以及其他资源品在内的多种产品。健康的长期伙伴关系铸就了互信和真诚，为所有参与方创造了价值。"
+      - "images/bauxite-img.jpg"
+      - "images/bauxite-suppliers.jpg"
+      - "images/bauxite.jpg"
+      - "images/rc.jpg"      
+      content : "铝土矿是提取铝的主要矿石。全球约85-90%的铝土矿用于提炼氧化铝,然后再冶炼成铝金属。我们在西亚、中东、非洲、澳洲和南美建立了广泛的资源网络，提供包括铁矿石、铬铁、铝土、铝、铬矿石以及其他资源品在内的多种产品。"
+      button:
+        enable : true
+        label : "更多信息"
+        link : "#"
+        
+    # service item loop
+    - title : "铬铁矿石"
+      images:
+      - "images/HIGH_CARBON_FERROCHROME.jpg"
+      - "images/Ferro-1.jpg"
+      - "images/Ferro-2.jpg"
+      content : "铁铬是铁和铬的合金,含铬量在50%到70%之间，主要用途是生产不锈钢。我们在西亚、中东、非洲、澳洲和南美建立了广泛的资源网络，提供包括铁矿石、铬铁、铝土、铝、铬矿石以及其他资源品在内的多种产品。"
+      button:
+        enable : true
+        label : "更多信息"
+        link : "#"
+        
+    # service item loop
+    - title : "铁矿石"
+      images:
+      - "images/iron1.jpg"
+      - "images/iron2.jpg"      
+      content : "铁矿石的主要用途是用于炼铁和炼钢。它经过冶炼可以产生铁金属,铁有许多用途,包括建筑、汽车制造、工具、机械和家电。我们在西亚、中东、非洲、澳洲和南美建立了广泛的资源网络，提供包括铁矿石、铬铁、铝土、铝、铬矿石以及其他资源品在内的多种产品。"
       button:
         enable : true
         label : "更多信息"
@@ -51,8 +54,9 @@ service:
     # service item loop
     - title : "其它"
       images:
-      - "images/bauxite-img.jpg"
-      - "images/bauxite-suppliers.jpg"
+      - "images/rc1.jpg"
+      - "images/chromium.jpg"
+      - "images/rc2.jpg"      
       content : "我们在西亚、中东、非洲、澳洲和南美建立了广泛的资源网络，提供包括铁矿石、铬铁、铝土、铝、铬矿石以及其他资源品在内的多种产品。健康的长期伙伴关系铸就了互信和真诚，为所有参与方创造了价值。"
       button:
         enable : true

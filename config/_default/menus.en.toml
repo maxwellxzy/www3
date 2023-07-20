@@ -11,17 +11,17 @@ hasChildren = true
 weight = 2
 
 [[main]]
-name = "Iron ore"
+name = "Bauxite"
 parent = "Product"
 url = "/"
 weight = 6
 [[main]]
-name = "Chromite"
+name = "Ferrochrome"
 parent = "Product"
 url = "/"
 weight = 7
 [[main]]
-name = "Bauxite"
+name = "Iron ore"
 parent = "Product"
 url = "/"
 weight = 8
