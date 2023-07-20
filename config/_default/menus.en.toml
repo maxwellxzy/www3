@@ -82,7 +82,3 @@ url = "#"
 [[footer_right]]
 name = "Privacy Policy"
 url = "privacy-policy/"
-
-[[footer_right]]
-name = "Faq"
-url = "/"

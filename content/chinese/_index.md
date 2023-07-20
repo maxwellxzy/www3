@@ -16,7 +16,7 @@ service:
   enable : true
   service_item:
     # service item loop
-    - title : "铁矿石"
+    - title : "铬铁矿石"
       images:
       - "images/iron1.jpg"
       - "images/iron2.jpg"
