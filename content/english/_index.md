@@ -16,47 +16,51 @@ service:
   enable : true
   service_item:
     # service item loop
+    - title : "Bauxite"
+      images:
+      - "images/bauxite-img.jpg"
+      - "images/bauxite-suppliers.jpg"
+      - "images/bauxite.jpg"
+      - "images/rc.jpg"
+      content : "Bauxite is the main ore used to extract aluminum. About 85-90% of bauxite mined globally is processed into alumina and then smelted into aluminum metal. We've built broad global suppliers network in Africa, West Asia, Middle East,  Austrilia and South America that keeps on providing best-quality Iron Ore, Ferrochrome, Aluminum, Bauxite,  Chromium Ore and other resources. "
+      button:
+        enable : true
+        label : "More"
+        link : "#"
+        
+        
+    # service item loop
+    - title : "Ferrochrome"
+      images:
+      - "images/HIGH_CARBON_FERROCHROME.jpg"
+      - "images/Ferro-1.jpg"
+      - "images/Ferro-2.jpg"
+      content : "Ferrochrome is an alloy of iron and chromium, containing between 50% and 70% chromium. The main use of ferrochrome is in the production of stainless steel. We've built broad global suppliers network in Africa, West Asia, Middle East,  Austrilia and South America that keeps on providing best-quality Iron Ore, Ferrochrome, Aluminum, Bauxite,  Chromium Ore and other resources. "
+      button:
+        enable : true
+        label : "More"
+        link : "#"
+        
+    # service item loop
     - title : "Iron ore"
       images:
       - "images/iron1.jpg"
       - "images/iron2.jpg"
-      content : "We've built broad global suppliers network in Africa, West Asia, Middle East,  Austrilia and South America that keeps on providing best-quality Iron Ore, Ferrochrome, Aluminum, Bauxite,  Chromium Ore and other resources. A healthy and long-run cooperative relationship creats mutual trust, integrity and added value to all stakeholders."
+      content : "Iron ore is used primarily for iron and steel making. We've built broad global suppliers network in Africa, West Asia, Middle East,  Austrilia and South America that keeps on providing best-quality Iron Ore, Ferrochrome, Aluminum, Bauxite,  Chromium Ore and other resources. A healthy and long-run cooperative relationship creats mutual trust, integrity and added value to all stakeholders."
       button:
         enable : true
-        label : "More >>"
+        label : "More"
         link : "#"
-        
     # service item loop
-    - title : "Chromite"
+    - title : "Others"
       images:
-      - "images/rc.jpg"
       - "images/rc1.jpg"
+      - "images/chromium.jpg"
       - "images/rc2.jpg"
       content : "We've built broad global suppliers network in Africa, West Asia, Middle East,  Austrilia and South America that keeps on providing best-quality Iron Ore, Ferrochrome, Aluminum, Bauxite,  Chromium Ore and other resources. A healthy and long-run cooperative relationship creats mutual trust, integrity and added value to all stakeholders."
       button:
         enable : true
-        label : "More >>"
-        link : "#"
-        
-    # service item loop
-    - title : "Bauxite"
-      images:
-      - "images/chromium.jpg"
-      content : "We've built broad global suppliers network in Africa, West Asia, Middle East,  Austrilia and South America that keeps on providing best-quality Iron Ore, Ferrochrome, Aluminum, Bauxite,  Chromium Ore and other resources. A healthy and long-run cooperative relationship creats mutual trust, integrity and added value to all stakeholders."
-      button:
-        enable : true
-        label : "More >>"
-        link : "#"
-        
-    # service item loop
-    - title : "Others"
-      images:
-      - "images/bauxite-img.jpg"
-      - "images/bauxite-suppliers.jpg"
-      content : "We've built broad global suppliers network in Africa, West Asia, Middle East,  Austrilia and South America that keeps on providing best-quality Iron Ore, Ferrochrome, Aluminum, Bauxite,  Chromium Ore and other resources. A healthy and long-run cooperative relationship creats mutual trust, integrity and added value to all stakeholders."
-      button:
-        enable : true
-        label : "More >>"
+        label : "More"
         link : "#"
         
 ##################### Feature ##########################
