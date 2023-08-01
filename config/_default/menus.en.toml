@@ -33,7 +33,7 @@ weight = 9
 [[main]]
 name = "Chromium ore"
 parent = "Product"
-url = "chromium"
+url = "blog/chromium"
 weight = 10
 # [[main]]
 # name = "Pricing"
@@ -47,12 +47,13 @@ weight = 4
 
 [[main]]
 name = "FAQ"
+url = "faq"
 weight = 5
 
 # footer menu left
 [[footer_left]]
 name = "About Us"
-url = "#"
+url = "contact"
 
 [[footer_left]]
 name = "Contact Us"
@@ -77,7 +78,7 @@ name = "Aluminum ore"
 url = "blog/aluminum"
 [[footer_middle]]
 name = "Chromium ore"
-url = "chromium"
+url = "blog/chromium"
 # footer menu right
 [[footer_right]]
 name = "Privacy Policy"

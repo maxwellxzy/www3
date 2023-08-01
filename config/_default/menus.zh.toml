@@ -12,31 +12,31 @@ weight = 2
 [[main]]
 name = "铁矿石"
 parent = "产品中心"
-url = "/"
+url = "/blog/iron"
 weight = 6
 
 [[main]]
 name = "铬铁矿石"
 parent = "产品中心"
-url = "/"
+url = "/blog/ferrochrome"
 weight = 7
 
 [[main]]
 name = "铝土矿石"
 parent = "产品中心"
-url = "/"
+url = "/blog/bauxite"
 weight = 8
 
 [[main]]
 name = "铝矿石"
 parent = "产品中心"
-url = "/"
+url = "/blog/aluminum"
 weight = 8
 
 [[main]]
 name = "铬矿石"
 parent = "产品中心"
-url = "/"
+url = "/blog/chromium"
 weight = 8
 # [[main]]
 # name = "产品"
@@ -45,7 +45,7 @@ weight = 8
 
 [[main]]
 name = "服务"
-url = "/"
+url = "/faq"
 weight = 5
 
 [[main]]
@@ -57,7 +57,7 @@ weight = 4
 # footer menu left
 [[footer_left]]
 name = "关于我们"
-url = "#"
+url = "contact"
 
 [[footer_left]]
 name = "联系我们"
