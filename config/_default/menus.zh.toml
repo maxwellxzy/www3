@@ -67,22 +67,22 @@ url = "contact/"
 # footer menu middle
 [[footer_middle]]
 name = "铁矿石"
-url = "/"
+url = "/blog/iron"
 
 [[footer_middle]]
 name = "铬铁矿石"
-url = "#"
+url = "blog/ferrochrome"
 
 [[footer_middle]]
 name = "铝土矿石"
-url = "#"
+url = "blog/bauxite"
 
 [[footer_middle]]
 name = "铝矿石"
-url = "#"
+url = "blog/aluminum"
 [[footer_middle]]
 name = "铬矿石"
-url = "#"
+url = "blog/chromium"
 # footer menu right
 [[footer_right]]
 name = "隐私政策"

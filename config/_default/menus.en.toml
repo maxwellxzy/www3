@@ -13,7 +13,7 @@ weight = 2
 [[main]]
 name = "Bauxite"
 parent = "Product"
-url = "/"
+url = "blog/bauxite"
 weight = 6
 [[main]]
 name = "Ferrochrome"
@@ -23,17 +23,17 @@ weight = 7
 [[main]]
 name = "Iron ore"
 parent = "Product"
-url = "/"
+url = "blog/iron"
 weight = 8
 [[main]]
 name = "Aluminum ore"
 parent = "Product"
-url = "/"
+url = "blog/aluminum"
 weight = 9
 [[main]]
 name = "Chromium ore"
 parent = "Product"
-url = "/"
+url = "chromium"
 weight = 10
 # [[main]]
 # name = "Pricing"
@@ -62,22 +62,22 @@ url = "contact/"
 # footer menu middle
 [[footer_middle]]
 name = "Iron ore"
-url = "/"
+url = "/blog/iron"
 
 [[footer_middle]]
 name = "Chromite"
-url = "#"
+url = "blog/ferrochrome"
 
 [[footer_middle]]
 name = "Bauxite"
-url = "#"
+url = "blog/bauxite"
 
 [[footer_middle]]
 name = "Aluminum ore"
-url = "#"
+url = "blog/aluminum"
 [[footer_middle]]
 name = "Chromium ore"
-url = "#"
+url = "chromium"
 # footer menu right
 [[footer_right]]
 name = "Privacy Policy"
